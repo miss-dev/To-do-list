@@ -1,5 +1,0 @@
-MOVIE INVENTORY REPORT
-Movie: Inception, Duration: 148 minutes, Rating: 8.8, Available Copies: 5
-Movie: The Matrix, Duration: 136 minutes, Rating: 8.7, Available Copies: 3
-Movie: Gladiator, Duration: 155 minutes, Rating: 8.5, Available Copies: 6
-The total number of movies available is 14
