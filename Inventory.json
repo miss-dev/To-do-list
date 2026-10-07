@@ -1,0 +1,27 @@
+[
+    {
+        "product": "Laptop",
+        "price": 1200,
+        "in_stock": true
+    },
+    {
+        "product": "Mouse",
+        "price": 25,
+        "in_stock": false
+    },
+    {
+        "product": "Monitor",
+        "price": 300,
+        "in_stock": true
+    },
+    {
+        "product": "Charger",
+        "price": 43,
+        "in_stock": true
+    },
+    {
+        "product": "Keyboard",
+        "price": 55,
+        "in_stock": false
+    }
+]

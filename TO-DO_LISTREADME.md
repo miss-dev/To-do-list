@@ -1,1 +1,0 @@
-This is a simple to-do list app that manages tasks. It allows users to add tasks with a deadline, and mark as done once completed. Users can decide to delete a task as well. The concepts covered while building this tool include: functions, while loops and for loops, if statements.
